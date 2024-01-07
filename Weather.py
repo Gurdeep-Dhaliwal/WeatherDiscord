@@ -3,8 +3,8 @@ from discord.ext import commands
 import requests 
 
 #
-BOT_TOKEN = 'MTE5MjgwNzE4MTM4OTY4MDY3MA.G6uC7m.66upRTQi1Xp4cB9fWq6Gdk0kXevePb0w6FLfeI'
-OPENWEATHERMAP_API_KEY = '0047a8a39fdcb97b863b3f627e86539f'
+BOT_TOKEN = 'MT'
+OPENWEATHERMAP_API_KEY = '004'
 
 # Store User Locations 
 UserLocation = {}
